@@ -23,9 +23,7 @@ It handles:
 - user registration and login,
 - interacting with the backend via API...
 
-[![Watch the demo](https://img.youtube.com/vi/aMxEC4vY3CE/maxresdefault.jpg)](https://www.youtube.com/watch?v=aMxEC4vY3CE)
-[![Watch the video](https://img.youtube.com/vi/aMxEC4vY3CE/maxresdefault.jpg)](https://www.youtube.com/watch?v=aMxEC4vY3CE)
-
+[Watch demo video](https://www.youtube.com/watch?v=aMxEC4vY3CE)
 
 ---
 
