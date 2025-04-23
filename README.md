@@ -44,4 +44,4 @@ This project is no longer maintained and is provided for reference purposes only
 It was developed as a personal project and serves as a showcase of my code and work.
 Since it relies on external APIs, some features may no longer work as expected, and the deployment is currently inactive.
 
-For more information, visit [www.michalmaslik.cz](https://www.michalmaslik.cz/en/work/bachelor-thesis?acs)
+For more information, visit [www.michalmaslik.cz](https://www.michalmaslik.cz/en/work/bachelor-thesis?acs) 🔍
