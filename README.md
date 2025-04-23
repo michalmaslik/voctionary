@@ -23,7 +23,7 @@ It handles:
 - user registration and login,
 - interacting with the backend via API...
 
-[🎬 Watch demo video](https://www.youtube.com/watch?v=aMxEC4vY3CE)
+🎬 [Watch demo video](https://www.youtube.com/watch?v=aMxEC4vY3CE)
 
 ---
 
@@ -34,7 +34,7 @@ This is the **browser extension** (e.g. for Chrome or Firefox) that:
 - connects to the backend to store vocabulary,
 - makes learning easy and accessible while browsing the web...
 
-[🎬 Watch demo video](https://www.youtube.com/watch?v=Lc7K261cReY)
+🎬 [Watch demo video](https://www.youtube.com/watch?v=Lc7K261cReY)
 
 ---
 
