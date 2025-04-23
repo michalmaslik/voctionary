@@ -15,7 +15,7 @@ It is responsible for:
 
 ---
 
-## 🌐 `voctionary-frontend` (Web Application)
+## 🌐 `voctionary-frontend` (Frontend)
 
 This is the **frontend** – the user-facing web interface (built with React).  
 It handles:
